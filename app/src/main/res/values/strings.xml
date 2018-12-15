@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Electric Forest</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="Stages">Stages</string>
+    <string name="Artists">Artists</string>
+    <string name="Concessions">Concessions</string>
+    <string name="Welcome_header">WELCOME TO SHERWOOD!</string>
+    <string name="EF_header_Intro">5+Stages of some of the greatest artists the music industry has to offer! \nWith a little bit of something for everybody, 4 days, over 350+ artists \nand\n The Famous Sherwood Forest! \nLet go and indulge! Welcome to The Forest Family!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
